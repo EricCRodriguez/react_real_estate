@@ -1,3 +1,7 @@
+A real estate multipage site, built with React. Js utilizing Globalstyle, and Aos for animations.
+Here is the link: 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
