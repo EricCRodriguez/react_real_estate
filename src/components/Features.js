@@ -89,14 +89,15 @@ const Features = () => {
             >
               <h1>Stunning Interior</h1>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Deserunt maxime commodi rem dignissimos, laborum eum beatae
-                harum consectetur possimus architecto!
+                We partner with furnishings designer Thomas O’Brien, at Aero
+                Studios where they specialize in a master design office where
+                crossover and collaboration are the rules rather than the
+                exception. The office’s many projects range from lofts and
+                formal apartments to commercial work like the Sixty Thompson
+                hotel and a condo developed by the Rudins called the Greenwich
+                Lane.
               </p>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod,
-                voluptatem.
-              </p>
+              <p></p>
               <Button to="/homes">Learn More</Button>
             </Content>
           </ColumnLeft>
