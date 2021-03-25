@@ -1,6 +1,6 @@
 A real estate multipage site, built with React. Js utilizing Globalstyle, and Aos for animations.
 Here is the link: 
-
+https://elixrluxuryrealestate.netlify.app/
 
 # Getting Started with Create React App
 
